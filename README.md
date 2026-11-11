@@ -1,4 +1,4 @@
 # StudentManagement
 
-#Developed using Python.
-#Maintained by CSE Students.
+ Developed using Python. 
+ Maintained by CSE Students.
